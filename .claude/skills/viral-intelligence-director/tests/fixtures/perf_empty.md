@@ -1,0 +1,3 @@
+| id | plataforma | views |
+|---|---|---|
+| <id> | | |
